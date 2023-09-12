@@ -1,9 +1,9 @@
 # Project portfolio of data analysis conducted using various datasets and imports
-advanced_mysql_final_project
-This project involves analyzing various aspects of an online business, such as session and order volume trends, efficiency improvements in conversion rates and revenue, channel-specific orders and conversion rates, product-related revenue and margin analysis, click-through rates for product pages, and cross-selling effectiveness for different products, utilizing SQL queries and data processing techniques.
-advanced_mysql_midcourse_project:
-This project involves analyzing monthly trends in website sessions, orders, and conversion rates for different aspects of an online business, including campaign types, device types, and conversion funnel analysis, as well as assessing the impact of various tests on revenue and billing page sessions.
-mysql_final_project:
-This project involves using MySQL to analyze and extract data from the Maven Movies database to answer questions from a potential acquirer regarding store managers, inventory, film ratings, customer information, rental statistics, advisors, investors, and actor awards.
-mysql_midcourse_project:
-This project involves using MySQL to analyze data from the Maven Movies database to answer questions from the insurance company's underwriters regarding staff information, inventory counts, active customers, customer email addresses, film diversity, replacement costs, payment statistics, and customer rental history.
+## amazon_web_scraper_project:
+- This project involves creating a web scraper in Python to monitor the price of a specific Amazon product, store the data in a CSV file, and send an email notification when the price drops below $15.
+## capstone_exploratory_data_analysis:
+- This project involves importing 5 datasets, displaying their basic information, data types, descriptive statistics, unique values, and identifying missing or null values, followed by data cleaning tasks such as removing unnecessary columns, changing data types, handling missing values, and exploring unique values in certain columns across these datasets.
+## data_cleaning_in_pandas:
+- This Python project involves cleaning and manipulating customer data in a pandas DataFrame, including removing duplicates, dropping unnecessary columns, cleaning phone numbers and last names, splitting the address, standardizing certain columns, and removing "Do Not Contact" entries, resulting in a cleaned 'call_list' DataFrame for further use.
+## parking_spots_exploratory_data_analysis:
+- This project analyzes parking data from an Excel file, examining various aspects such as the distribution of owned and leased parking, states with excess parking, cities with decommissioned parking, property types with excess parking, the distribution of parking in cities by property type, states with zero parking spaces, and the states with the most and least parking spaces.
