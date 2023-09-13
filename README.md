@@ -7,5 +7,5 @@
 - Cleaning and manipulating customer data in a pandas DataFrame, including removing duplicates, dropping unnecessary columns, cleaning phone numbers and last names, splitting the address, standardizing certain columns, and removing "Do Not Contact" entries, resulting in a cleaned 'call_list' DataFrame for further use.
 ## parking_spots_exploratory_data_analysis:
 - Analyzed parking data from an Excel file, examining various aspects such as the distribution of owned and leased parking, states with excess parking, cities with decommissioned parking, property types with excess parking, the distribution of parking in cities by property type, states with zero parking spaces, and the states with the most and least parking spaces.
-## section07_midcourse_project_answered ((Maven Analytics Data Science in Python: Da)ta Prep & EDA Course):
+## section07_midcourse_project_answered (Maven Analytics Data Science in Python: Data Prep & EDA Course):
 - Executed analysis of post-2010 Rotten Tomatoes movies, highlighting top-rated films by critics and audiences, categorizing genres, and visualizing data. Insights include critics' harsher reviews, animation's popularity, longer movies correlating with more critic ratings, and "Shutter Island" as the audience's favorite despite fewer critic reviews.
